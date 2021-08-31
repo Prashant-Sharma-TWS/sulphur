@@ -52,7 +52,7 @@ div.header-section img[name="slide"] {
 }
 
 /* header with class navbar-fixed */
-.navbar-fixed > div {
+header.navbar-fixed > div {
   display: flex;
   align-items: center;
   position: fixed;
@@ -60,13 +60,13 @@ div.header-section img[name="slide"] {
   z-index: 1;
   padding: 20px 8.5% 13px;
 }
-.navbar-fixed > div > a {
+header.navbar-fixed > div > a {
   min-width: 150px;
   margin-right: 5%;
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 400;
 }
-.navbar-fixed > div .list {
+header.navbar-fixed > div .list {
   width: 40%;
   display: flex;
   font-size: 16px;
