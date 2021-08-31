@@ -380,6 +380,12 @@ footer div.footer-bottom div.social-media a:nth-child(3) img {
   border-radius: 50%;
 }
 
+@media screen and (min-width: 1025px) {
+  #menu {
+    display: none;
+  }
+}
+
 @media screen and (max-width: 1200px) and (min-width: 1025px) {
   /* header style */
   header.navbar-fixed > div {
