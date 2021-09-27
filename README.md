@@ -1,5 +1,3 @@
-## ***this should be run in any live server like visual studio code live server extension it has jquery*
-
 # sulphur
 
 This is the first project our team got to make at masai - which is the <a href="https://unbounce.com/">Unbounce</a> website clone.
